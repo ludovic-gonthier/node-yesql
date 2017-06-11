@@ -1,0 +1,7 @@
+{
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/config/",
+      "<rootDir>/node_modules/"
+    ]
+}
+
